@@ -1,2 +1,2 @@
 # Foundations-of-Data-science
-Programs rlated to foundaitons of Data sciecne
+Programs related to foundaitons of Data sciecne
